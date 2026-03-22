@@ -38,7 +38,7 @@ A complete Information Security Risk Analysis for a fictional Spanish renewable 
 | Remote VPN access without MFA | 16/25 | 🟠 HIGH |
 | Phishing / credential compromise | 16/25 | 🟠 HIGH |
 
-📥 **[Download PDF](./Analisis_Riesgos_SGSI_EnerverdeRenovables.pdf)**
+📥 **[Download PDF](./Analisis_Riesgos_SGSI_EnerverdeRenovables_v2.pdf)**
 
 ---
 
